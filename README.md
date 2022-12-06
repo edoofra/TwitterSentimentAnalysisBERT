@@ -1,2 +1,2 @@
 # TwitterSentimentAnalysisBERT
-Twitter Sentiment Analysis done with BERT.
+The rise of social media has made it easier than ever for people to express their opinions on a wide range of topics. In this project, we will be using the BERT language model to perform sentiment analysis on tweets. BERT, which stands for "Bidirectional Encoder Representations from Transformers," is a state-of-the-art language model that can understand the context of words in a sentence, allowing it to accurately predict the sentiment of a given tweet. By using BERT, we will be able to analyze the sentiment of tweets and gain insight into how people feel about a particular topic on Twitter.
